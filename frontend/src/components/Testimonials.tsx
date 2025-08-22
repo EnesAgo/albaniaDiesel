@@ -16,11 +16,11 @@ interface Testimonial {
 const testimonials: Testimonial[] = [
     {
         id: 1,
-        name: "Erdin Dalip",
+        name: "Name Surname",
         role: "⭐⭐⭐⭐⭐",
         comment:
             "The best service and services. Recommended",
-        image: "https://lh3.googleusercontent.com/a-/ALV-UjWSOsnLMBIx49omAXwOFy20xOUZnrXHVEHCXU_xFF5XxSkAlaUP=w144-h144-p-rp-mo-ba5-br100",
+        image: "https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/",
     },
     {
         id: 2,
@@ -47,12 +47,28 @@ const testimonials: Testimonial[] = [
         image: "https://lh3.googleusercontent.com/a/ACg8ocI2wPm4nYEtozBQCPFOAl1Ln1srfSxL-C3kVzy9J6s2aaztVA=w144-h144-p-rp-mo-ba4-br100",
     },
     {
-        id: 5,
-        name: "Mervin Dehar",
+        id: 1,
+        name: "Name Surname",
         role: "⭐⭐⭐⭐⭐",
         comment:
-            "⭐⭐⭐⭐⭐",
-        image: "https://lh3.googleusercontent.com/a/ACg8ocJ03HJK-0LJAa3ig_fgD7BJ593nQtG0aROXA03h68qGoUFppw=w144-h144-p-rp-mo-br100",
+            "The best service and services. Recommended",
+        image: "https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/",
+    },
+    {
+        id: 1,
+        name: "Name Surname",
+        role: "⭐⭐⭐⭐⭐",
+        comment:
+            "The best service and services. Recommended",
+        image: "https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/",
+    },
+    {
+        id: 1,
+        name: "Name Surname",
+        role: "⭐⭐⭐⭐⭐",
+        comment:
+            "The best service and services. Recommended",
+        image: "https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/",
     },
 ];
 
